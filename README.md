@@ -20,7 +20,7 @@ An enthusiastic, self-motivated, and hardworking individual aspiring to build a 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jena-Chinmaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jena-Chinmaya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=Jena-Chinmaya&theme=radical&no-bg=true&margin-w=4" />
 
 
 ### ✍️ Random Dev Quote
