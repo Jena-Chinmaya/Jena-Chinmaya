@@ -19,9 +19,8 @@ An enthusiastic, self-motivated, and hardworking individual aspiring to build a 
 ![](https://nirzak-streak-stats.vercel.app/?user=Jena-Chinmaya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jena-Chinmaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[## 🏆 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jena-Chinmaya&show_icons=true&theme=radical)](https://github-profile-trophy.vercel.app/?username=Jena-Chinmaya)
-
+## 🏆 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jena-Chinmaya&show_icons=true&theme=radical)
 
 
 ### ✍️ Random Dev Quote
